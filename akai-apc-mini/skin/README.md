@@ -5,7 +5,8 @@ Resources used for creating my custom APC Mini skin. The skin was produced in th
 ![Example 2](https://github.com/dogefreak/lasers/blob/78eac2340c211f6767adbc5cdcf8b454351e6388/akai-apc-mini/skin/Example2.png)
 
 Fonts used:
-- Helvetica Regular
+- Ethnocentric Regular
+- Helvetica Regular & Bold
 - Sui Generis Regular
 
 The design is based on a mousepad created by Pangolin themselves.
